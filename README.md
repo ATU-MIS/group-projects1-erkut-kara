@@ -9,6 +9,10 @@ The system consists of 3 main modules:
 2.  **Admin Panel:** A powerful dashboard for company staff to manage routes, buses, pricing matrices, and agents.
 3.  **Backend (API):** A robust RESTful API service built with NestJS and PostgreSQL to manage data flow and business logic.
 
+ ## DEMO BİLGİLERİ
+ Live Demo: https://aou.devosuit.com/
+ PNR Sorgulama için: TC: 11111111119 Tel: 5305303030
+
 ---
 
 ## 🛠️ Technology Stack
