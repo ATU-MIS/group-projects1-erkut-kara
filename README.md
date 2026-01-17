@@ -41,9 +41,9 @@ The system consists of 3 main modules:
 *   **Modern UI:** Features Glassmorphism effects, smooth animations, and a fully responsive design.
 
 <div align="center">
-  <img src="img/front1.png" width="45%" alt="Frontend Home" />
-  <img src="img/front2.png" width="45%" alt="Frontend Search" />
-  <img src="img/front3.png" width="91%" alt="Frontend Seats" />
+  <img src="img/front1.png" width="91%" alt="Frontend Seats" />
+  <img src="img/front2.png" width="45%" alt="Frontend Home" />
+  <img src="img/front3.png" width="45%" alt="Frontend Search" />
 </div>
 
 ### 2. 🛡️ Admin Dashboard
@@ -61,9 +61,9 @@ The system consists of 3 main modules:
 *   **Station & Amenity Management:** Centralized control over cities, rest facilities, and bus hardware.
 
 <div align="center">
-  <img src="img/admin1.png" width="45%" alt="Admin Dashboard" />
-  <img src="img/admin2.png" width="45%" alt="Admin Routes" />
-  <img src="img/admin3.png" width="91%" alt="Admin Fleet" />
+  <img src="img/admin1.png" width="91%" alt="Admin Fleet" />
+  <img src="img/admin2.png" width="45%" alt="Admin Dashboard" />
+  <img src="img/admin3.png" width="45%" alt="Admin Routes" />
 </div>
 
 ### 3. ⚙️ Backend Logic
