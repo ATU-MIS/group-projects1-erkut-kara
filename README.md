@@ -40,6 +40,12 @@ The system consists of 3 main modules:
 *   **PNR Inquiry:** View and manage ticket details using PNR codes or phone numbers.
 *   **Modern UI:** Features Glassmorphism effects, smooth animations, and a fully responsive design.
 
+<div align="center">
+  <img src="img/front1.png" width="45%" alt="Frontend Home" />
+  <img src="img/front2.png" width="45%" alt="Frontend Search" />
+  <img src="img/front3.png" width="91%" alt="Frontend Seats" />
+</div>
+
 ### 2. 🛡️ Admin Dashboard
 *   **Route Management:**
     *   Recurring trip creation (e.g., Every day at 09:00).
@@ -53,6 +59,12 @@ The system consists of 3 main modules:
     *   Rapid ticket issuance interface for physical sales points.
     *   Bulk passenger entry and instant confirmation.
 *   **Station & Amenity Management:** Centralized control over cities, rest facilities, and bus hardware.
+
+<div align="center">
+  <img src="img/admin1.png" width="45%" alt="Admin Dashboard" />
+  <img src="img/admin2.png" width="45%" alt="Admin Routes" />
+  <img src="img/admin3.png" width="91%" alt="Admin Fleet" />
+</div>
 
 ### 3. ⚙️ Backend Logic
 *   **Segment-Based Inventory:** Intelligent algorithm allowing a single seat to be sold multiple times on different segments (e.g., seat sold for A-B becomes available again for B-C).
