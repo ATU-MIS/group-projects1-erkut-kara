@@ -12,7 +12,7 @@ The system consists of 3 main modules:
  ## DEMO BİLGİLERİ
  Ana Sayfa Demo: https://aou.devosuit.com/ <br>
  Admin Panel Demo (Auth gereklidir): https://auadmin.devosuit.com/routes <br>
- PNR Sorgulama için: TC: 11111111119 Tel: 5305303030
+ PNR Sorgulama için: PNR: VV00LJBVP Tel: 5305303030
 
 ---
 
