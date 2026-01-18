@@ -48,11 +48,23 @@ The system consists of 3 main modules:
     *   **Bilet Yönetimi:** Easy cancellation and suspension (açığa alma) features for users.
 *   **Dynamic Information Pages:** Automated "Resting Facilities" list synced with station data, plus branded FAQ and Passenger Rights.
 
+<div align="center">
+  <img src="img/front1.png" width="91%" alt="Frontend Seats" />
+  <img src="img/front2.png" width="45%" alt="Frontend Home" />
+  <img src="img/front3.png" width="45%" alt="Frontend Search" />
+</div>
+
 ### 2. 🛡️ Admin Dashboard
 *   **Operational Stats:** Real-time dashboard showing daily/monthly revenue, passenger counts, and upcoming trips.
-*   **User Management:** Full CRUD operations for Users, Acounts, and Customers with search by TC No, Name, or Phone.
+*   **User Management:** Full CRUD operations for Users, Accounts, and Customers with search by TC No, Name, or Phone.
 *   **Route Management:** Recurring trip creation and **Smart Pricing Engine** for automatic segment price calculation.
 *   **Fleet Management:** Custom Seat Layout designer (2+1, 2+2) and dynamic bus feature management.
+
+<div align="center">
+  <img src="img/admin1.png" width="91%" alt="Admin Fleet" />
+  <img src="img/admin2.png" width="45%" alt="Admin Dashboard" />
+  <img src="img/admin3.png" width="45%" alt="Admin Routes" />
+</div>
 
 ### 3. ⚙️ Backend Logic
 *   **Segment-Based Inventory:** Intelligent algorithm allowing a single seat to be sold multiple times on different segments.
